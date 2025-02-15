@@ -29,3 +29,9 @@ Finally, the IR receiver is soldered on, insulated and pressed into its seat.
 ---
 
 This project can also be found on [Thingiverse](https://www.thingiverse.com/thing:6633395 "Thingiverse").
+
+---
+---
+#### Images
+<img src="https://github.com/TueftelTyp/irDecoder/blob/main/images/wiring.jpg" width="500"> \
+<img src="https://github.com/TueftelTyp/irDecoder/blob/main/images/back.jpg" width="250"> <img src="https://github.com/TueftelTyp/irDecoder/blob/main/images/front.jpg" width="250"> 
