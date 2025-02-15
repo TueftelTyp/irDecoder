@@ -14,6 +14,8 @@ The current code reads HEX as well as all other values, like this:\
 
 These values are output in any serial monitor with **BAUD 115200**.
 
+You may need the CH340 driver to be able to communicate with the Wemos. You can get it [here](https://www.wemos.cc/en/latest/ch340_driver.html "here").
+
 -----
 ### 3D Printing:
 The two files with the name lid are covers, which have to be glued in.
