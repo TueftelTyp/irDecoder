@@ -7,8 +7,8 @@ It holds a Wemos D1 mini (or clone) and an IR receiver (type doesn't matter, but
 ---
 ## Update 28.02.2025:
 There is now an Windows application that makes reading out even more convenient. \
-It is portable executable, requires only few resources, is written in C# and available for [download in the releases](https://github.com/TueftelTyp/irDecoder/releases "download in the releases").\
-The source code can also be found [here](https://github.com/TueftelTyp/irDecoder/tree/main/app "here").
+It is portable executable and requires only few resources, written in C# and available for [download in the releases](https://github.com/TueftelTyp/irDecoder/releases "download in the releases").\
+The source code can also be found [here](https://github.com/TueftelTyp/irDecoder/tree/main/irDecoder%20App "here").
 
 ----
 ### c+ Code:
